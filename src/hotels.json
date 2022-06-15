@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Voyage Hotel",
+    "rating": 9.7
+  },{
+    "id": 2,
+    "name": "Maxx Royal Hotel",
+    "rating": 8.3
+  },{
+    "id": 3,
+    "name": "Vogue Hotel",
+    "rating": 7.5
+  },{
+    "id": 4,
+    "name": "Vyge Hotel",
+    "rating": 9.1
+  },{
+    "id": 5,
+    "name": "MRoyal Hotel",
+    "rating": 8.9
+  },{
+    "id": 6,
+    "name": "VG Hotel",
+    "rating": 7.2
+  }
+] 
